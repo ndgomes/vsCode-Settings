@@ -1,3 +1,0 @@
-MacOS
-
-VSCode Personal Settings
