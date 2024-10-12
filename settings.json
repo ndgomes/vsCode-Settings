@@ -1,11 +1,10 @@
 {
-  "workbench.colorTheme": "Vesper ++",
+  "workbench.colorTheme": "Min Dark",
   "symbols.hidesExplorerArrows": false,
   "workbench.iconTheme": "symbols",
   "editor.fontFamily": "JetBrains Mono",
   "editor.fontSize": 13,
   "editor.lineHeight": 1.7,
-  "editor.rulers": [80, 120],
   "workbench.startupEditor": "none",
   "editor.renderLineHighlight": "gutter",
   "editor.fontLigatures": true,
@@ -19,31 +18,6 @@
   "editor.scrollbar.horizontal": "hidden",
   "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
-  "window.titleBarStyle": "native",
-  "apc.electron": {
-    "titleBarStyle": "hiddenInset",
-    "trafficLightPosition": {
-      "x": 11,
-      "y": 10
-    },
-    "frame": false
-  },
-  "apc.header": {
-    "height": 36
-  },
-  "apc.listRow": {
-    "height": 24
-  },
-  "apc.font.family": "JetBrains Mono",
-  "apc.stylesheet": {
-    ".title-label > h2": "display: none",
-    ".editor-actions": "display: none",
-    ".nosidebar .inline-tabs-placeholder": "width: 75px",
-    ".pane-header": "padding: 0 8px",
-    ".pane-body": "padding: 8px",
-    ".monaco-list-row": "border-radius: 4px;",
-    ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none;"
-  },
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
